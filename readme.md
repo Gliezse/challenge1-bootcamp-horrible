@@ -1,6 +1,7 @@
 # Welcome to CHALLENGE BOOTCAMP HORRIBLE V1 2022 EDITION!
 
 Lean las consignas mas abajo y resuelvan dentro del cuerpo de la función (reemplazando el `// TODO` )
+Para saber si la funcion está bien, corran `npm run test` y si los tests pasan tonce significa que su funcion está nashe
 
 ## Reglas
 
