@@ -148,10 +148,10 @@ const sortedDateObjArr = [
     dateField: 50,
   },
   {
-    dateField: "Wed Sep 28 2022",
+    dateField: new Date("Wed Sep 20 2022"),
   },
   {
-    dateField: new Date("Wed Sep 20 2022"),
+    dateField: "Wed Sep 28 2022",
   },
 ];
 

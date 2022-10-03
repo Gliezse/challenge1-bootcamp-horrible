@@ -141,10 +141,10 @@ La salida deberia ser:
     field_x: 50,
   },
   {
-    field_x: "Wed Sep 28 2022",
+    field_x: new Date("Wed Sep 20 2022"),
   },
   {
-    field_x: new Date("Wed Sep 20 2022"),
+    field_x: "Wed Sep 28 2022",
   },
 ];
 ```
