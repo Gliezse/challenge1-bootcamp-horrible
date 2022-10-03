@@ -43,8 +43,8 @@ describe("sort by date", () => {
 
     try {
       sortByDate(arr, "dateField");
-    } catch {
-      fn();
+    } catch(e) {
+      fn(e);
     }
 
     expect(fn).toHaveBeenCalledWith(errorText);
